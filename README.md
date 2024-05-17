@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ solution  ]([https://your-solution-url.com](https://github.com/Anass-gouzgar/Order-summary-component))
-- Live Site URL: [ live site URL ]([https://your-live-site-url.com](https://order-summary-componentt.vercel.app/))
+- Solution URL: (https://github.com/Anass-gouzgar/Order-summary-component)
+- Live Site URL:(https://order-summary-componentt.vercel.app/)
 
 ## My process
 
